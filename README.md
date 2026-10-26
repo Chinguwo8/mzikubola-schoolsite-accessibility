@@ -33,6 +33,8 @@ The spatial datasets were processed using Python and GeoPandas. Road buffers wer
 - Jupyter Notebook documenting the analysis
 - Static suitability map in PNG and PDF format
 - Interactive HTML suitability map
+## Static Suitability Map Preview
+![Static suitability map](outputs/mzikubola_school_suitability.png)
 # Limitations
 The identified areas are preliminary candidates based on the specified spatial criteria. They should not be treated as confirmed construction sites without field verification and further assessment of population distribution, land ownership, terrain, land availability and other planning requirements.
 # Reproducibility
